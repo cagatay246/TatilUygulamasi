@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagat\\source\\repos\\TatilUygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78E2442B-74BF-47A6-96DB-640514FCD7E4}|TatilUygulamas\u0131\\TatilUygulamas\u0131.csproj|c:\\users\\cagat\\source\\repos\\tatiluygulamas\u0131\\tatiluygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E2442B-74BF-47A6-96DB-640514FCD7E4}|TatilUygulamas\u0131\\TatilUygulamas\u0131.csproj|solutionrelative:tatiluygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cagat\\source\\repos\\TatilUygulamas\u0131\\TatilUygulamas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "TatilUygulamas\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\cagat\\source\\repos\\TatilUygulamas\u0131\\TatilUygulamas\u0131\\Program.cs*",
+              "RelativeToolTip": "TatilUygulamas\u0131\\Program.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:39:41.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
